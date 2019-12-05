@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/american-history-timeline/precache-manifest.e95b695f55e618d608cac605a34fbd13.js"
+  "/american-history-timeline/precache-manifest.40497470dad5f66f1548070a84f629a2.js"
 );
 
 self.addEventListener('message', (event) => {

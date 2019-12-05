@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/american-history-timeline/static/css/main.3cac18c4.chunk.css",
-    "main.js": "/american-history-timeline/static/js/main.c07445d3.chunk.js",
-    "main.js.map": "/american-history-timeline/static/js/main.c07445d3.chunk.js.map",
+    "main.js": "/american-history-timeline/static/js/main.e8cc0fb4.chunk.js",
+    "main.js.map": "/american-history-timeline/static/js/main.e8cc0fb4.chunk.js.map",
     "runtime-main.js": "/american-history-timeline/static/js/runtime-main.867a3bab.js",
     "runtime-main.js.map": "/american-history-timeline/static/js/runtime-main.867a3bab.js.map",
     "static/css/2.221a2b37.chunk.css": "/american-history-timeline/static/css/2.221a2b37.chunk.css",
-    "static/js/2.5d1f342c.chunk.js": "/american-history-timeline/static/js/2.5d1f342c.chunk.js",
-    "static/js/2.5d1f342c.chunk.js.map": "/american-history-timeline/static/js/2.5d1f342c.chunk.js.map",
+    "static/js/2.a4cd0aae.chunk.js": "/american-history-timeline/static/js/2.a4cd0aae.chunk.js",
+    "static/js/2.a4cd0aae.chunk.js.map": "/american-history-timeline/static/js/2.a4cd0aae.chunk.js.map",
     "index.html": "/american-history-timeline/index.html",
-    "precache-manifest.e95b695f55e618d608cac605a34fbd13.js": "/american-history-timeline/precache-manifest.e95b695f55e618d608cac605a34fbd13.js",
+    "precache-manifest.40497470dad5f66f1548070a84f629a2.js": "/american-history-timeline/precache-manifest.40497470dad5f66f1548070a84f629a2.js",
     "service-worker.js": "/american-history-timeline/service-worker.js",
     "static/css/2.221a2b37.chunk.css.map": "/american-history-timeline/static/css/2.221a2b37.chunk.css.map",
     "static/css/main.3cac18c4.chunk.css.map": "/american-history-timeline/static/css/main.3cac18c4.chunk.css.map"
@@ -17,8 +17,8 @@
   "entrypoints": [
     "static/js/runtime-main.867a3bab.js",
     "static/css/2.221a2b37.chunk.css",
-    "static/js/2.5d1f342c.chunk.js",
+    "static/js/2.a4cd0aae.chunk.js",
     "static/css/main.3cac18c4.chunk.css",
-    "static/js/main.c07445d3.chunk.js"
+    "static/js/main.e8cc0fb4.chunk.js"
   ]
 }
